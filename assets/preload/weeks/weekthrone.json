@@ -1,0 +1,31 @@
+{
+	"storyName": "uh oh boyfriend's a gamer",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "throne",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Dethroned",
+			"expunged",
+			[
+				46,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}
