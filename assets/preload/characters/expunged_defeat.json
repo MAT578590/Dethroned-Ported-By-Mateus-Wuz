@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				430,
+				260
+			],
+			"loop": false,
+			"fps": 9,
+			"anim": "idle",
+			"indices": [],
+			"name": "expunged idle"
+		},
+		{
+			"offsets": [
+				501,
+				260
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "expunged left"
+		},
+		{
+			"offsets": [
+				401,
+				290
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "expunged down"
+		},
+		{
+			"offsets": [
+				470,
+				240
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "expunged up"
+		},
+		{
+			"offsets": [
+				430,
+				230
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "expunged right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				440,
+				280
+			],
+			"anim": "ded",
+			"fps": 8,
+			"name": "expunged ded",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				440,
+				280
+			],
+			"anim": "ded loop",
+			"fps": 9,
+			"name": "expunged ded loop",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/expunged_defeated",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "expunged",
+	"flip_x": true,
+	"healthbar_colors": [
+		177,
+		7,
+		7
+	],
+	"camera_position": [
+		1599,
+		-590
+	],
+	"sing_duration": 2.90000000000001,
+	"scale": 2.1
+}

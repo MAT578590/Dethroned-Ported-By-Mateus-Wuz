@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				540,
+				250
+			],
+			"loop": false,
+			"fps": 9,
+			"anim": "idle",
+			"indices": [],
+			"name": "expunged idle"
+		},
+		{
+			"offsets": [
+				651,
+				310
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "expunged left"
+		},
+		{
+			"offsets": [
+				541,
+				230
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "expunged down"
+		},
+		{
+			"offsets": [
+				550,
+				240
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "expunged up"
+		},
+		{
+			"offsets": [
+				410,
+				250
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "expunged right"
+		},
+		{
+			"offsets": [
+				525,
+				250
+			],
+			"loop": true,
+			"fps": 9,
+			"anim": "annoy",
+			"indices": [],
+			"name": "expunged annoyed"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/expunged_normal",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "expunged",
+	"flip_x": true,
+	"healthbar_colors": [
+		177,
+		7,
+		7
+	],
+	"camera_position": [
+		1469,
+		-960
+	],
+	"sing_duration": 2.90000000000001,
+	"scale": 2.1
+}
