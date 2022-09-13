@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Expunged_Old.png">
+<SubTexture name="Expunged Down0000" x="1673" y="509" width="538" height="480" frameX="-478" frameY="-459" frameWidth="1532" frameHeight="1232" />
+<SubTexture name="Expunged Down0001" x="505" y="657" width="534" height="527" frameX="-493" frameY="-412" frameWidth="1532" frameHeight="1232" />
+<SubTexture name="Expunged Idle0000" x="699" y="0" width="305" height="652" frameX="-621" frameY="-287" frameWidth="1532" frameHeight="1232" />
+<SubTexture name="Expunged Left0000" x="1039" y="657" width="591" height="515" frameX="-215" frameY="-406" frameWidth="1532" frameHeight="1232" />
+<SubTexture name="Expunged Left0001" x="0" y="657" width="505" height="629" frameX="-432" frameY="-309" frameWidth="1532" frameHeight="1232" />
+<SubTexture name="Expunged Right0000" x="0" y="1286" width="773" height="455" frameX="-671" frameY="-417" frameWidth="1532" frameHeight="1232" />
+<SubTexture name="Expunged Right0001" x="1673" y="0" width="650" height="509" frameX="-642" frameY="-372" frameWidth="1532" frameHeight="1232" />
+<SubTexture name="Expunged Up0000" x="1004" y="0" width="669" height="646" frameX="-424" frameY="-137" frameWidth="1532" frameHeight="1232" />
+<SubTexture name="Expunged Up0001" x="0" y="0" width="699" height="657" frameX="-434" frameY="-233" frameWidth="1532" frameHeight="1232" />
+</TextureAtlas>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BF_THRONED_NEON.png">
+<SubTexture name="bf opp down0000" x="1805" y="561" width="468" height="555" frameX="-534" frameY="-501" frameWidth="1529" frameHeight="1528" />
+<SubTexture name="bf opp down0001" x="1306" y="577" width="468" height="565" frameX="-534" frameY="-466" frameWidth="1529" frameHeight="1528" />
+<SubTexture name="bf opp idle0000" x="0" y="668" width="461" height="582" frameX="-537" frameY="-458" frameWidth="1529" frameHeight="1528" />
+<SubTexture name="bf opp left0000" x="461" y="668" width="574" height="578" frameX="-302" frameY="-460" frameWidth="1529" frameHeight="1528" />
+<SubTexture name="bf opp left0001" x="741" y="0" width="565" height="604" frameX="-362" frameY="-447" frameWidth="1529" frameHeight="1528" />
+<SubTexture name="bf opp right0000" x="1805" y="0" width="541" height="561" frameX="-648" frameY="-468" frameWidth="1529" frameHeight="1528" />
+<SubTexture name="bf opp right0001" x="1306" y="0" width="499" height="577" frameX="-648" frameY="-468" frameWidth="1529" frameHeight="1528" />
+<SubTexture name="bf opp up0000" x="0" y="0" width="365" height="668" frameX="-537" frameY="-282" frameWidth="1529" frameHeight="1528" />
+<SubTexture name="bf opp up0001" x="365" y="0" width="376" height="649" frameX="-537" frameY="-362" frameWidth="1529" frameHeight="1528" />
+</TextureAtlas>

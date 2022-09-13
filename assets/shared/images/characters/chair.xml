@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="chair.png">
+<SubTexture name="chair chair0000" x="0" y="0" width="556" height="866" frameX="-243" frameY="-149" frameWidth="1042" frameHeight="1042" />
+</TextureAtlas>
